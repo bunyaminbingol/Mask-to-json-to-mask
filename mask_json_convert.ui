@@ -412,7 +412,7 @@
              </font>
             </property>
             <property name="text">
-             <string>MASK WIDTH :</string>
+             <string>MASK HEIGHT  :</string>
             </property>
            </widget>
           </item>
@@ -534,7 +534,7 @@
              </font>
             </property>
             <property name="text">
-             <string>MASK HEIGHT :</string>
+             <string>MASK WIDTH :</string>
             </property>
            </widget>
           </item>
