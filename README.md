@@ -7,7 +7,8 @@ Also, if you have masks and want to convert them to json format, you can easily 
 ## How to Run
 you need to run `python main.py`
 
-then you will see the following window
+Then you will see the following window
+#### 1 ) Convert Json to Mask
 
 ![Alt text](https://github.com/MehmetOKUYAR/Mask-to-json-to-mask/blob/main/images/jsontomask.jpg?raw=true "main window")
 
