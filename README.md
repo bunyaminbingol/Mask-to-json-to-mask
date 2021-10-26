@@ -10,6 +10,7 @@ This convenience will allow you to convert the labels you have as you wish, even
 you need to run `python main.py`
 
 Then you will see the following window
+---
 #### 1 ) Convert JSON to Mask
 
 ![Alt text](https://github.com/MehmetOKUYAR/Mask-to-json-to-mask/blob/main/images/jsontomask.jpg?raw=true "main window")
@@ -24,11 +25,12 @@ ___
  **Mask Width :**  enter image width 
 
 After filling in the relevant fields, you can easily perform the conversion by pressing the **start** button.
-
+---
 #### 1 ) Convert Mask to JSON
 
 ![Alt text](https://github.com/g180900073/Mask-to-json-to-mask/blob/main/images/masktojson.jpg?raw=true "main window")
 
+___
 **Mask Path :**  Specify path to pre-created mask photos 
 
  **JSON Path :**  Specify the path of the json file format to be generated 
