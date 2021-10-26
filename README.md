@@ -13,7 +13,7 @@ Then you will see the following window
 
 ## 1 ) Convert JSON to Mask
 
-![Alt text](https://github.com/MehmetOKUYAR/Mask-to-json-to-mask/blob/main/images/jsontomask.jpg?raw=true "main window")
+![](https://github.com/MehmetOKUYAR/Mask-to-json-to-mask/blob/main/images/jsontomask.jpg)
 
 ___
  **Load Json :**  Upload the json file you labeled for segmentation 
@@ -28,7 +28,7 @@ After filling in the relevant fields, you can easily perform the conversion by p
 
 ## 2 ) Convert Mask to JSON
 
-![Alt text](https://github.com/g180900073/Mask-to-json-to-mask/blob/main/images/masktojson.jpg?raw=true "main window")
+![](https://github.com/g180900073/Mask-to-json-to-mask/blob/main/images/masktojson.jpg)
 
 ___
  **Mask Path :**  Specify path to pre-created mask photos 
